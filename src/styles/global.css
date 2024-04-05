@@ -93,3 +93,16 @@ h1 {
     }
 }
 
+html.dark {
+    background-color: #0d0950;
+    color: #fff;
+}
+
+html.dark h1{
+    color: green;
+}
+
+.dark .nav-links a {
+    color: #fff;
+}
+
